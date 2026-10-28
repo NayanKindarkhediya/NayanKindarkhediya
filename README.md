@@ -38,9 +38,9 @@ I build modern, responsive and user-friendly websites.
 ### 01. Autocraft Web
 Website development project.
 
-- **Tech Stack:** Add technologies used
+- **Tech Stack:** React.js, JavaScript, HTML5, CSS3, Responsive Web Design
 - **Repository:** Add your actual project URL
-- **Live Demo:** Add your deployed website URL
+- **Live Demo:** https://autocraftweb.netlify.app/
 
 ### 02. Om Beauty Care
 Beauty products website project.
