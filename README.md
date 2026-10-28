@@ -5,88 +5,86 @@
 
 ### 💻 Web Developer | Building Digital Experiences
 
-**I build modern, responsive and user-friendly websites.**
+I build modern, responsive and user-friendly websites.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nayan-Kindarkhediya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D99A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Nayan-Kindarkhediya?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/NayanKindarkhediya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00D99A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/NayanKindarkhediya?tab=repositories)
 
 </div>
 
 ---
 
-## 🟢 About Me
+## 🟢 ABOUT ME
 
-- 💻 Passionate about modern web development
-- 🌐 Building responsive and user-friendly websites
+- 💻 Passionate about web development
+- 🌐 Building modern and responsive websites
 - ⚡ Improving my JavaScript and React skills
-- 🎯 Focused on clean UI and practical projects
-- 🚀 Always learning and building new things
+- 🎯 Focused on clean UI and user experience
+- 🚀 Learning by building real-world projects
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 ### 01. Autocraft Web
 Website development project.
 
-- **Focus:** Modern website design
-- **Code:** Add your actual repository link
-- **Demo:** Add your live website link
+- **Tech Stack:** Add technologies used
+- **Repository:** Add your actual project URL
+- **Live Demo:** Add your deployed website URL
 
 ### 02. Om Beauty Care
 Beauty products website project.
 
-- **Focus:** Product catalogue and shopping UI
-- **Code:** Add your actual repository link
-- **Demo:** Add your live website link
+- **Tech Stack:** Add technologies used
+- **Repository:** Add your actual project URL
+- **Live Demo:** Add your deployed website URL
 
-### 03. My Portfolio
-A personal website showcasing my work.
+### 03. Personal Portfolio
+A website showcasing my work and skills.
 
-- **Focus:** Responsive design and project showcase
-- **Code:** Add your actual repository link
-- **Demo:** Add your live portfolio link
+- **Tech Stack:** Add technologies used
+- **Repository:** Add your actual project URL
+- **Live Demo:** Add your portfolio URL
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Kindarkhediya&show_icons=true&theme=merko&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NayanKindarkhediya&show_icons=true&theme=merko&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-Kindarkhediya&layout=compact&theme=merko&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKindarkhediya&layout=compact&theme=merko&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Nayan-Kindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/Nayan-Kindarkhediya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayanKindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/NayanKindarkhediya)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 CONNECT WITH ME
 
-- 🐙 GitHub: https://github.com/YOUR-USERNAME
+- 🐙 GitHub: [@NayanKindarkhediya](https://github.com/NayanKindarkhediya)
 - 🌐 Portfolio: Add your live portfolio URL
-- 💼 LinkedIn: Add your profile URL
+- 💼 LinkedIn: Add your LinkedIn URL
 
 ---
 
