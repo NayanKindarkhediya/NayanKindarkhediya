@@ -7,8 +7,8 @@
 
 **I build modern, responsive and user-friendly websites.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D99A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/YOUR-USERNAME?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nayan-Kindarkhediya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D99A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Nayan-Kindarkhediya?tab=repositories)
 
 </div>
 
@@ -64,9 +64,9 @@ A personal website showcasing my work.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=merko&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Kindarkhediya&show_icons=true&theme=merko&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=merko&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-Kindarkhediya&layout=compact&theme=merko&hide_border=true" />
 
 </div>
 
@@ -76,7 +76,7 @@ A personal website showcasing my work.
 
 <div align="center">
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR-USERNAME)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Nayan-Kindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/Nayan-Kindarkhediya)
 
 </div>
 
