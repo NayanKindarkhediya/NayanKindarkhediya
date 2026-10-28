@@ -7,8 +7,8 @@
 
 I build modern, responsive and user-friendly websites.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/NayanKindarkhediya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00D99A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/NayanKindarkhediya?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Nayan-Kindarkhediya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00D99A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Nayan-Kindarkhediya?tab=repositories)
 
 </div>
 
@@ -62,9 +62,9 @@ A website showcasing my work and skills.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NayanKindarkhediya&show_icons=true&theme=merko&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Kindarkhediya&show_icons=true&theme=merko&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKindarkhediya&layout=compact&theme=merko&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-Kindarkhediya&layout=compact&theme=merko&hide_border=true" />
 
 </div>
 
@@ -74,7 +74,7 @@ A website showcasing my work and skills.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayanKindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/NayanKindarkhediya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayan-Kindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/Nayan-Kindarkhediya)
 
 </div>
 
@@ -82,7 +82,7 @@ A website showcasing my work and skills.
 
 ## 🤝 CONNECT WITH ME
 
-- 🐙 GitHub: [@NayanKindarkhediya](https://github.com/NayanKindarkhediya)
+- 🐙 GitHub: [@NayanKindarkhediya](https://github.com/Nayan-Kindarkhediya)
 - 🌐 Portfolio: Add your live portfolio URL
 - 💼 LinkedIn: Add your LinkedIn URL
 
