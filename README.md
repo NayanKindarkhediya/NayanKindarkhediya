@@ -58,20 +58,6 @@ A website showcasing my work and skills.
 
 ---
 
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="48%" src="https://i.pinimg.com/736x/d5/e2/01/d5e201216137a0155faa3ead8a68c70e.jpg" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKindarkhediya&layout=compact&theme=merko&hide_border=true" />
-
-</div>
-
-
----
-
 ## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
