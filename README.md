@@ -58,6 +58,7 @@ A website showcasing my work and skills.
 
 ---
 
+
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
@@ -67,6 +68,7 @@ A website showcasing my work and skills.
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKindarkhediya&layout=compact&theme=merko&hide_border=true" />
 
 </div>
+
 
 ---
 
