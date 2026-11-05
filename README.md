@@ -74,7 +74,7 @@ A website showcasing my work and skills.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayanKindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/NayanKindarkhediya)
+[![Activity Graph](https://githubreadmeactivitygraph.vercel.app/graphusername=NayanKindarkhediya&bg_color=0d1117&color=00d99a&line=00d99a&point=ffffff&area=true&hide_border=true)](https://github.com/NayanKindarkhediya)
 
 </div>
 
